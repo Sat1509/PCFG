@@ -1,0 +1,7 @@
+# Unpinned: versions used for the original runs are not recorded in the notebooks.
+torch
+numpy
+scipy
+pandas
+matplotlib
+transformers

@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+.DS_Store
+.env
+
+# large artifacts: checkpoints, caches, result dumps
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.npz
+*.npy
+*.pkl
+*.bin
+exp*_results/
+exp8/
+exp6_bigpool_h4/
+exp7_gate/
